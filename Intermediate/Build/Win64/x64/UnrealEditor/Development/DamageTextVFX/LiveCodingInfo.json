@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DamageTextVFX.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"DamageTextVFX.cpp.obj"
+		]
+	}
+}

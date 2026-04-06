@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\workhouse\\mmorpg\\plugins\\damagetextvfx\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\damagetextvfx\\module.damagetextvfx.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\workhouse\\mmorpg\\intermediate\\build\\win64\\x64\\mmorpgeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "d:\\workhouse\\mmorpg\\plugins\\damagetextvfx\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\damagetextvfx\\definitions.damagetextvfx.h",
+            "d:\\workhouse\\mmorpg\\plugins\\damagetextvfx\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\damagetextvfx\\permoduleinline.gen.cpp",
+            "d:\\epic\\ue\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
