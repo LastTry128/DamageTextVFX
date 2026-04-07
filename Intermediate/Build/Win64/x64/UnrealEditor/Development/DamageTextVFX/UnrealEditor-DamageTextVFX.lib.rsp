@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-DamageTextVFX.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:/WorkHouse/MMORPG/Intermediate/Build/Win64/x64/MMORPGEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:/WorkHouse/MMORPG/Intermediate/Build/Win64/x64/MMORPGEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
 "D:/WorkHouse/MMORPG/Plugins/DamageTextVFX/Intermediate/Build/Win64/x64/UnrealEditor/Development/DamageTextVFX/Module.DamageTextVFX.cpp.obj"
 "D:/WorkHouse/MMORPG/Plugins/DamageTextVFX/Intermediate/Build/Win64/x64/UnrealEditor/Development/DamageTextVFX/DamageTextVFX.cpp.obj"
 "D:/WorkHouse/MMORPG/Plugins/DamageTextVFX/Intermediate/Build/Win64/x64/UnrealEditor/Development/DamageTextVFX/Default.rc2.res"
